@@ -19,7 +19,7 @@ This version is currently unreleased, and features updates for iOS 7 and enables
 Availabiltiy and License
 ========================
 
-I am making this code available to the public under a public domain license. All that I ask is that if you
+I am making this code available to the public under the MIT license. All that I ask is that if you
 choose to use it, copy it, or if you helps you out in any way, please consider dropping me a line at:
 
 markbellottapps@gmail.com
