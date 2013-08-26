@@ -16,7 +16,7 @@ This version is currently unreleased, and features updates for iOS 7 and enables
 
 4word was built using the Cocos2D v2.x framework.
 
-Availabiltiy and License
+Availability and License
 ========================
 
 I am making this code available to the public under the MIT license. All that I ask is that if you
