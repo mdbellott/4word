@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F7A26184-93F3-47B9-94B1-07FF74E3577A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>4word</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAE91694-825F-4385-B733-E01550131FF6</key>
+		<string>https://github.com/mdbellott/4word.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>4word.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAE91694-825F-4385-B733-E01550131FF6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mdbellott/4word.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAE91694-825F-4385-B733-E01550131FF6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAE91694-825F-4385-B733-E01550131FF6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>4word</string>
+		</dict>
+	</array>
+</dict>
+</plist>
